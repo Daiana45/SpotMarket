@@ -1,0 +1,13 @@
+Este archivo solo sirve para que Git guarde la carpeta vacia.
+No lo editen (podria causar conflictos). Borrenlo cuando agreguen sus primeros archivos reales a esta carpeta.
+
+la carpeta docs/ guarda toda la documentacion del proyecto.
+cada una documenta lo que hizo en su propio archivo:
+docs/
+daiana.md
+ana.md
+valentina.md
+serena.md
+
+se puede escribir:
+que hice, como funciona, problemas, decisiones, etc

@@ -1,0 +1,8 @@
+node_modules/
+.env
+.vscode/
+##carpeta donde VS code guarda la configuracion de nuestro editor, lo incluimos para no tener conflicto.
+__pycache__/
+##por si usamos python para el chatbot. Es una carpeta que python crea cuando ejecutamos el programa con versiones compiladas de los archivos, ensucian el repo
+dist/
+##es la carpeta donde vite dejan el proyecto empaquetado y compilado. ensucian el repo.
